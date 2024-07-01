@@ -1,0 +1,46 @@
+/* CSS Document */
+
+div {
+	text-align:center;
+	}
+div#bandeau {
+	width:1264px;
+	height:100px;
+	 background-color:#0099FF;
+	}
+div#menu {
+	float:left;
+	width:180px;
+	height:500px;
+	background-color:#0033FF;
+	}
+div#menuhaut {
+	float:left;
+	width:180px;
+	height:250px;
+	background-color:#0099FF;
+	}
+div#menubas {
+	float:left;
+	width:180px;
+	height:250px; background-color:#0099FF;
+	}
+
+div#contenu {
+	width:1264px;
+	height:500px; background-color:#00FFFF;
+	}
+div#blocnews {
+	float:right;
+	width:250px;
+	height:440px;
+	 background-color:#00FFFF;
+	}
+
+div#piedpage {
+	width:1264px;
+	height:100px;
+	background-color:#0099FF;
+	clear:both;
+			}
+
